@@ -27,3 +27,7 @@ body {
 .flex {
     display: flex;
 }
+
+.coluna{
+    flex-direction: column;
+}
